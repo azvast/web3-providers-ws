@@ -1,7 +1,5 @@
 # moralis-web3-providers-ws
 
-[![NPM Package][npm-image]][npm-url] [![Dependency Status][deps-image]][deps-url] [![Dev Dependency Status][deps-dev-image]][deps-dev-url]
-
 This is a fork of web3-providers-ws that uses https://github.com/MoralisWeb3/WebSocket-Node
 
 This is a websocket provider sub-package for [web3.js][repo].
